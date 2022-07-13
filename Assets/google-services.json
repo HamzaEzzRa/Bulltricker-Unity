@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421364313004",
+    "firebase_url": "https://bulltricker-f54ab.firebaseio.com",
+    "project_id": "bulltricker-f54ab",
+    "storage_bucket": "bulltricker-f54ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421364313004:android:f9ce6c9693df32233c2809",
+        "android_client_info": {
+          "package_name": "com.tinysquidstudios.bulltricker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421364313004-9usgbpj1vql54f6ijom7ub20go89fnit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tinysquidstudios.bulltricker",
+            "certificate_hash": "3b92144d55a731debcb01d5ef7a205536e9f7933"
+          }
+        },
+        {
+          "client_id": "421364313004-j08ag2ptdese0e41seikin8ojunpb8fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF4WNOCYu1VLefbrdsgWrC3knTbFbrfrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421364313004-9o5kqbec526cl8049r5c32bse3se0vo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
